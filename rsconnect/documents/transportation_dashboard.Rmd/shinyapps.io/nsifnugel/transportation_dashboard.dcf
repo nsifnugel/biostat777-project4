@@ -1,0 +1,12 @@
+name: transportation_dashboard
+title:
+username: nsifnugel
+account: nsifnugel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10836385
+bundleId: 8073844
+url: https://nsifnugel.shinyapps.io/transportation_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
