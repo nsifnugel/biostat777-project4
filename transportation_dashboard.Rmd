@@ -15,20 +15,14 @@ library(tidyverse)
 library(here)
 library(sf)
 library(RColorBrewer)
-library(rvest)
-options(tigris_use_cache = TRUE)
 ```
 
 ```{r ACS_2020_data reading and cleaning,  include = FALSE}
 
 total_using_public_transportation <- c("B08301_010E")
-
 total_commuting <- c("B08301_001E")
-
 by_earnings <- c("B08119_029E","B08119_030E","B08119_031E","B08119_032E","B08119_033E","B08119_034E","B08119_035E","B08119_036E")
-
 by_vehicles <- c("B08141_017E","B08141_018E","B08141_019E","B08141_020E")
-
 variables <- c(total_using_public_transportation, total_commuting,by_earnings,by_vehicles)
 
 boston <- c(02101:02137, 02163,02199,02203,02205,02208,02209,02215,02222,02228,02283,02284,02455)
