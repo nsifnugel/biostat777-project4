@@ -1,6 +1,6 @@
 # biostat777-project4-nsifnugel
 
-*Hello!* 
+**Hello!**
 
 My name is Natalia Sifnugel and this repository holds the source code for JHSPH Biostat777 project 4. 
 
