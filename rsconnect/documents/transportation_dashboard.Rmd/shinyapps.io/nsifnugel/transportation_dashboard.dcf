@@ -5,7 +5,7 @@ account: nsifnugel
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10836385
-bundleId: 8073919
+bundleId: 8076625
 url: https://nsifnugel.shinyapps.io/transportation_dashboard/
 version: 1
 asMultiple: FALSE
